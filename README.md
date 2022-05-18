@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MatiuDev
-- 👀 I’m interested in Laravel web app development, frontend, backend
+- 👀 I’m interested in Python,  Laravel web app development, frontend, backend
